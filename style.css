@@ -5,7 +5,7 @@
     --fundo-senha:#054dac;
     --fundo-texto:#0149b6;
     --borda:#0b0b0b;
-    --fonte-principal:"Mozzilla Text"
+    --fonte-principal:'Mozzilla Text';
 }
 body{
     background-color: var(--cor-de-fundo);
