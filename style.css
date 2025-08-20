@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mozilla+Text:wght@200..700&display=swap');
 :root{
     --branco:white;
-    --cor-de-fundo:#035853;
-    --fundo-senha:#0f1438;
-    --fundo-texto:#0f1438;
-    --borda:#0b076c;
+    --cor-de-fundo:#31054b;
+    --fundo-senha:#2f0f38;
+    --fundo-texto:#2f0f38;
+    --borda:#360b39;
     --fonte-principal:'Mozzilla Text';
 }
 body{
